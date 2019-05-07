@@ -28,4 +28,18 @@
         android:layout_height="match_parent"
         android:contentDescription="@string/mainImgContDdec"
         app:srcCompat="@drawable/coal" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="395dp"
+        android:layout_height="180dp"
+        android:layout_alignBottom="@+id/textView"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="0dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginBottom="-676dp"
+        android:text="@string/reason"
+        android:textSize="35sp"
+        tools:text="@string/reason" />
 </RelativeLayout>

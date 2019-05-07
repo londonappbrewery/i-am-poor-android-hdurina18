@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">I Am Poor</string>
     <string name="title">I Am Poor</string>
+    <string name="reason">Cuz I upgraded my Mac</string>
     <string name="mainImgContDdec">coal.png</string>
 </resources>
